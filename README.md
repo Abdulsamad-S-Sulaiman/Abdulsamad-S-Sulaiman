@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on these apps: - [FIB-Personal](https://apps.apple.com/us/app/first-iraqi-bank/id1545549339) - [FIB-Business](https://apps.apple.com/us/app/first-iraqi-bank-for-business/id1548261487) - [FIB-Corporate](https://apps.apple.com/us/app/first-iraqi-bank-for-corporate/id1575329166) -<>-
 
-- 🌱 I’m currently learning **SwiftUI, Home-Automation**
+- 🌱 I’m currently learning ** Home-Automation **
 
 - 💬 Ask me about **iOS development in general**
 

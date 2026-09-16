@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Abdulsamad</h1>
 <h3 align="left">A passionate iOS developer from Iraq</h3>
 
-- 🔭 I’m currently working on these apps: - [FIB-Personal](https://apps.apple.com/us/app/first-iraqi-bank/id1545549339) - [FIB-Business](https://apps.apple.com/us/app/first-iraqi-bank-for-business/id1548261487) - [FIB-Corporate](https://apps.apple.com/us/app/first-iraqi-bank-for-corporate/id1575329166) -<>-
+- 🔭 I’m currently working on these apps: - [FIB-Personal](https://apps.apple.com/us/app/first-iraqi-bank/id1545549339) - [FIB-Business](https://apps.apple.com/us/app/first-iraqi-bank-for-business/id1548261487) - [FIB-Corporate](https://apps.apple.com/us/app/first-iraqi-bank-for-corporate/id1575329166) -
 
 - 💬 Ask me about **iOS development in general**
 
